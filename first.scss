@@ -1,0 +1,30 @@
+@use 'colors';
+
+%button{
+    font-weight: lighter;
+}
+
+.red{
+    @extend %button;
+    background-color: colors.$red;
+}
+.orange{
+    @extend %button;
+    background-color: colors.$orange;
+}
+.pink{
+    @extend %button;
+    background-color: colors.$pink;
+}
+.blue{
+    @extend %button;
+    background-color: colors.$blue;
+}
+.green{
+    @extend %button;
+    background-color: colors.$green;
+}
+.yellow{
+    @extend %button;
+    background-color: colors.$yellow;
+}

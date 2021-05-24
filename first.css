@@ -1,0 +1,29 @@
+.yellow, .green, .blue, .pink, .orange, .red {
+  font-weight: lighter;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+/*# sourceMappingURL=first.css.map */
